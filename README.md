@@ -12,17 +12,17 @@ The following are some features implemented, use cases of such features, and a n
 
 ![Dragon 12 Microcontroller](https://github.com/mmorg031/Alarm-System/blob/master/68HC12%20Dragon%2012%20Microcontroller.png)
 
-1. LCD Display
+1. LCD Display: 
 Displays messages to User about the status of temperature, the status of the alarm , and the configuration and verification of pin
 
-2. 7 Segment Display
+2. 7 Segment Display: 
 Displays pin entered on keypad (3) 
 
-3. Alarm with Lock & Unlock Feature
+3. Alarm with Lock & Unlock Feature: 
 A siren will play if the system is armed, the system is triggered, and the entered pin is incorrect. You may shut the siren off when the correct pin is entered.
 
-4. Keypad for PIN
+4. Keypad for PIN: 
 A keypad exists to create and configure a security code/pin, as well as verify that code/pin when the alarm is triggered to disarm the system.
 
-5. Temperature Monitor
+5. Temperature Monitor: 
 A thermometer exists on the board and the temperature is displayed on the LCD screen when the system is armed/disarmed
